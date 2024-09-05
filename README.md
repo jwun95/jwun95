@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/java-E11F21.svg?style=for-the-badge" />&nbsp
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp
 </div>
 <br>
 <h3 align="center">⚙️ Back-End ⚙️</h3>
@@ -58,4 +58,13 @@
   <img src="https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white" />&nbsp
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwun95&layout=compact)
+<br>
+<div>
+  <div align="center">    
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwun95" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwun95&layout=compact&theme=dracula" />
+  </div>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=jwun95" />
+  </div>
+</div>
