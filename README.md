@@ -62,7 +62,7 @@
 <div>
   <div align="center">    
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwun95" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwun95&layout=compact&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwun95&layout=compact&theme=dracula&hide=css,html,teX,less" />
   </div>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=jwun95" />
