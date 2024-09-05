@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2fa599&height=300&section=header&text=안녕하세요!%20개발자%20심재운입니다.&fontSize=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2fa599&height=300&section=header&text=안녕하세요!%20개발자%20Dartz입니다.&fontSize=50&fontColor=ffffff" />
 </div>
 <!--내용 부분-->
 <h2 align="center">💻 My Tech Stack </h2>
